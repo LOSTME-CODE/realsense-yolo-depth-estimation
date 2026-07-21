@@ -247,9 +247,9 @@ Caption: RViz2 configuration showing the PointCloud2 display subscribed to the /
 ---
 
 7️⃣ **Detection Output**
-<img width="682" height="317" alt="Image" src="https://github.com/user-attachments/assets/4678580c-e0dc-45d2-9b7b-9b05d3b54ec1" />
 
-<img width="682" height="317" alt="Image" src="https://github.com/user-attachments/assets/c27792b6-3138-46be-a781-15c4aa5e672d" />
+
+<img width="1853" height="1051" alt="Image" src="https://github.com/user-attachments/assets/c41aab80-14ef-486e-86c1-1be7dab574aa" />
 
 Caption: Real-time object detection using YOLOv8 with estimated object distance overlaid using aligned depth information.
 
