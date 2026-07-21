@@ -110,6 +110,7 @@ The system provides:
 - Live PointCloud
 - ROS visualization through RViz2
 
+<img width="682" height="317" alt="Image" src="https://github.com/user-attachments/assets/4678580c-e0dc-45d2-9b7b-9b05d3b54ec1" />
 ---
 
 <h3 id="deployment">Deployment</h3>
@@ -200,49 +201,47 @@ Bounding Box + Class + Distance
 
 1️⃣ **Package Structure**
 
-Filename: `package_structure.png`
+<img width="785" height="313" alt="Image" src="https://github.com/user-attachments/assets/dba6af95-4038-4b5f-ab32-d7b57009aff5" />
 
-Caption: Custom ROS 2 package structure containing the Python node and launch file used for real-time object detection and depth estimation.
+ Custom ROS 2 package structure containing the Python node and launch file used for real-time object detection and depth estimation.
 
 ---
 
 2️⃣ **RQT Graph**
 
-Filename: `rqt_graph.png`
-
-Caption: ROS 2 communication graph illustrating the interaction between the RealSense camera node, published topics, RViz2, TF frames, and the custom YOLO node.
+<img width="1800" height="746" alt="Image" src="https://github.com/user-attachments/assets/e81f1d1c-f81b-48c3-8c7b-82001aef0ee2" />
+ROS 2 communication graph illustrating the interaction between the RealSense camera node, published topics, RViz2, TF frames, and the custom YOLO node.
 
 ---
 
 3️⃣ **Launch File**
 
-Filename: `launch_file.png`
-
-Caption: Custom ROS 2 launch file used to start the realsense_yolo_node with predefined configurations.
+<img width="977" height="1105" alt="Image" src="https://github.com/user-attachments/assets/023f39dc-438a-43fd-a13c-ec1cc6146c18" />
+Custom ROS 2 launch file used to start the realsense_yolo_node with predefined configurations.
 
 ---
 
 4️⃣ **Python Node**
+<img width="1853" height="1053" alt="Image" src="https://github.com/user-attachments/assets/d4225903-7858-4aea-94b7-1ae8a1683930" />
+<img width="1853" height="1053" alt="Image" src="https://github.com/user-attachments/assets/03e024b1-8cdd-4d1d-9599-1bcc94962493" />
 
-Filename: `code_snippet.png`
 
-Caption: Implementation of the custom ROS 2 Python node integrating YOLOv8 object detection with RealSense depth estimation.
+ Implementation of the custom ROS 2 Python node integrating YOLOv8 object detection with RealSense depth estimation.
 
 ---
 
 5️⃣ **RViz PointCloud**
 
-Filename: `pointcloud_rviz.png`
-
-Caption: Live 3D PointCloud visualization generated from the Intel RealSense D435i depth camera in RViz2.
+<img width="1853" height="1053" alt="Image" src="https://github.com/user-attachments/assets/83f502bc-09b9-400a-a75c-dd51287a85f8" />
+Live 3D PointCloud visualization generated from the Intel RealSense D435i depth camera in RViz2.
 
 ---
 
 6️⃣ **RViz Topic Selection**
 
-Filename: `pointcloud_topic.png`
+<img width="1850" height="1055" alt="Image" src="https://github.com/user-attachments/assets/d86cc58e-f724-4305-b16e-4e66cb86bfaa" />
 
-Caption: RViz2 configuration showing the PointCloud2 display subscribed to the /camera/depth/color/points topic.
+ RViz2 configuration showing the PointCloud2 display subscribed to the /camera/depth/color/points topic.
 
 ---
 
