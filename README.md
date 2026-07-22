@@ -25,7 +25,9 @@ A real-time perception system that combines Intel RealSense D435i, ROS 2 Humble,
 <h3 id="demo">Demo</h3>
 
 <!-- Demo GIF -->
-demo.gif
+https://github.com/user-attachments/assets/481efe26-2e23-41e0-b0bc-8a3d4179657f
+
+https://github.com/user-attachments/assets/86e21121-2b2d-4c3a-aa34-21d09af9eee5
 
 <!-- Screenshots -->
 
